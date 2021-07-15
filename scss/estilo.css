@@ -411,5 +411,8 @@ table #listaNovedad {
   .contacto h5 {
     font-size: 70%;
   }
+  .contenido article {
+    width: 100%;
+  }
 }
 /*# sourceMappingURL=estilo.css.map */
