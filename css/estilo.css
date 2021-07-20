@@ -17,7 +17,11 @@
     display: grid;
     grid-template-columns: repeat(3);
     grid-template-rows: repeat(5, 1fr);
-    grid-template-areas: "Chocolat Crema Fruta" "Chocolat Crema Fruta" "Amargo Mascarpone Naranja" "ConNuez Americana Limon" "Blanco Menta Frutilla";
+    grid-template-areas: "Chocolat Crema Fruta"
+ "Chocolat Crema Fruta"
+ "Amargo Mascarpone Naranja"
+ "ConNuez Americana Limon"
+ "Blanco Menta Frutilla";
     row-gap: 0.5%;
     column-gap: 0.5%;
     text-align: center; }
@@ -152,11 +156,6 @@
 body {
   background-color: #e9d3d6; }
 
-/*
-    background: #c9989e; width: 90%;
-    background: linear-gradient(90deg, #c9989e 11%, #e9d3d6 26%, #e9e6e6 100%);
-}
-*/
 footer {
   margin: 3em; }
 
@@ -184,17 +183,7 @@ h2 {
 /*media*/
 .principal {
   text-align: center;
-  /* no por ahora
-    .marcaMov{
-    color: $coloscuro;
-    transition: 3s;
-    margin: 0.5em;
-    }
-    
-    .marcaMov:hover{
-    transform: scale(1.5,1.5); 
-    }
-    */ }
+}
   .principal .row {
     margin: 1em; }
   .principal #principal__logo {

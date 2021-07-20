@@ -298,17 +298,6 @@ h2 {
 /*media*/
 .principal {
   text-align: center;
-  /* no por ahora
-    .marcaMov{
-    color: $coloscuro;
-    transition: 3s;
-    margin: 0.5em;
-    }
-    
-    .marcaMov:hover{
-    transform: scale(1.5,1.5); 
-    }
-    */
 }
 
 .principal .row {
