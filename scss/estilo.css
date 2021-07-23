@@ -212,8 +212,11 @@
           animation-direction: alternate;
   margin: 3em;
   text-align: center;
-  text-decoration: underline;
   color: rebeccapurple;
+}
+
+.btnMapa {
+  background-color: rebeccapurple;
 }
 
 @-webkit-keyframes tituloGaleria {
@@ -246,6 +249,14 @@
   width: 80%;
   display: block;
   margin: auto;
+}
+
+.btnEnviar {
+  background-color: rebeccapurple;
+}
+
+.btnCancelar {
+  background-color: #962d2d;
 }
 
 * {
@@ -315,7 +326,7 @@ h2 {
 }
 
 .contenido #fraseChoco {
-  word-spacing: 3em;
+  word-spacing: 2em;
   text-align: center;
   margin-top: 3em;
   width: 50% auto;
@@ -335,7 +346,6 @@ h2 {
 
 .contenido #articuloChoco {
   font-family: sigmar One;
-  border: dotted;
   background: -webkit-gradient(linear, right top, left top, from(lightgrey), color-stop(#dad3d3), to(#646161));
   background: linear-gradient(to left, lightgrey, #dad3d3, #646161);
   margin: 2em;
