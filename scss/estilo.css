@@ -22,7 +22,7 @@
 }
 
 .contenedorGustos .gridGustos {
-  background: radial-gradient(#e798ae, #f6e5e9, #962d2d);
+  background-color: #e798ae;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[3];
@@ -134,7 +134,7 @@
   -ms-grid-column: 2;
   grid-area: Mascarpone;
   margin: 1em;
-  background-color: #e798ae;
+  background-color: #e9d3d6;
 }
 
 .contenedorGustos .gridGustos .gridAmericana {
@@ -142,7 +142,7 @@
   -ms-grid-column: 2;
   grid-area: Americana;
   margin: 1em;
-  background-color: #e798ae;
+  background-color: #e9d3d6;
 }
 
 .contenedorGustos .gridGustos .gridMenta {
@@ -150,7 +150,7 @@
   -ms-grid-column: 2;
   grid-area: Menta;
   margin: 1em;
-  background-color: #e798ae;
+  background-color: #e9d3d6;
 }
 
 .contenedorGustos .gridGustos div:hover {
