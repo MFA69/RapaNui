@@ -264,13 +264,17 @@ main {
   text-align: center;
 }
 
-.img404 {
-  margin: 2em;
-}
-
 .link404 {
   text-decoration: none;
   color: #962d2d;
+}
+
+p {
+  font-size: 150%;
+}
+
+.link404:hover {
+  color: rebeccapurple;
 }
 
 * {
