@@ -219,6 +219,10 @@
   background-color: rebeccapurple;
 }
 
+.btnMapa:hover {
+  background-color: #bd4357;
+}
+
 @-webkit-keyframes tituloGaleria {
   0% {
     opacity: 0;
