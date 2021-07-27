@@ -217,6 +217,7 @@
 
 .btnMapa {
   background-color: rebeccapurple;
+  border-color: rebeccapurple;
 }
 
 .btnMapa:hover {
@@ -410,34 +411,17 @@ h2 {
 }
 
 /*novedades y promociones*/
-.contenedorListas {
-  display: block;
-  margin: auto;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  align-items: center;
-}
-
-.rowTabla {
-  display: block;
-  margin: auto;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  align-items: center;
-}
-
-.promNov {
-  text-align: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.hola {
+.tablaCentro {
   margin: auto;
   text-align: center;
+}
+
+.cajaNuevo {
+  background-color: #962d2d;
+}
+
+.cajaDescu {
+  background-color: rebeccapurple;
 }
 
 /*tabla*/

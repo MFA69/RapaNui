@@ -14,7 +14,7 @@
     color: $colnav;
 }
 
-.btnMapa {background-color: $colnav;}
+.btnMapa {background-color: $colnav; border-color: $colnav;}
 
 .btnMapa:hover {background-color: $colclaro;}
 
