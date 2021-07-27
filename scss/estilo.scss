@@ -53,6 +53,8 @@ h2{margin: 2em;}
     }
 } 
 
+.imgFra, .imgHel {width: 70%; display: block; margin: auto; padding-top: 3em;}
+
 /*secciones index*/
 
 .contenido{
@@ -104,11 +106,22 @@ h2{margin: 2em;}
 
 }
 
+/*novedades y promociones*/
+
+.contenedorListas {display: block; margin: auto; align-items: center; align-items: center;}
+
+.rowTabla {display: block; margin: auto; align-items: center; align-items: center;}
+
+.promNov {text-align: center; align-items: center;}
+
+.hola {margin: auto; text-align: center}
+    
+
+
 /*tabla*/
 
-    .tablaPromo{
+    .tablaPromo{display: block; margin: auto; align-items: center;
             h5 {margin: 1em;
-                text-decoration-line: underline;
             }
     }
 
