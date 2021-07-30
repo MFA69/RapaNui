@@ -183,6 +183,9 @@
   .quienes .quienes__imagen, .quienes video {
     width: 120%;
   }
+  .quienes #imagenItalia {
+    width: 45%;
+  }
 }
 
 @media only screen and (min-width: 577px) {
